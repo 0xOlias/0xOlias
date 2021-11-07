@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi! I'm a software engineer building open-source web3 products. Here's what I've been up to lately:
 
-<!--
-**0xOlias/0xOlias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adventure Cards NFT**
+- Built a tool to browse NFTs for the project, released hours after launch
+- Currently building an onchain/offchain hybrid card game
 
-Here are some ideas to get you started:
+**eth-plays-snake** (in progress)
+- A fully on-chain collaborative game of snake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**nft-notify** (in progress)
+- A simple tool to "follow" a wallet and receive alerts for on-chain activity
+
+**Other web3 ideas I'm thinking about**
+- Dead-simple, open-source library for sign-in-with-ethereum
+- Etherscan-style source code verification for traditional web services
+- Twitch Plays Pokemon with inputs/votes provided as eth messages (or txns)
+- Wallet authentication for traditional web services (why do I need an email to use GitHub?)
+- On-chain billing (and permissions) for SaaS (why does my DAO need a credit card to pay for Vercel?)
+
+Please get in touch with me on [twitter](https://twitter.com/0xOlias) if you want to chat :D
