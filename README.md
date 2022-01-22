@@ -1,9 +1,17 @@
-Hi! I'm a software engineer building web3 stuff.
+Hi! I'm a software engineer building web3 stuff. Hit me up on [twitter](https://twitter.com/0xOlias) if you want to chat :D
 
-**Adventure Cards NFT**
-- Built a tool to browse NFTs for the project, released hours after launch
-- Currently building an onchain/offchain hybrid [card game](https://github.com/Adventure-Cards/game-client)
+## Current projects
 
-**[Other web3 ideas I'm thinking about](https://gist.github.com/0xOlias/f3be85188e86ff0fe91a6a6e0e821231)**
+### Adventure Cards  
+I built a tool to browse Adventure Card NFTs released hours after launch, and then I built a minimal onchain/offchain hybrid [card game](https://github.com/Adventure-Cards/game-client)  
 
-Please get in touch with me on [twitter](https://twitter.com/0xOlias) if you want to chat :D
+### watercolor  
+A dev server for building [artblocks](https://www.artblocks.io/)-ready projects with p5 and TypeScript support  
+
+### Ethereum Plays (soon!)  
+
+## Interests
+- Anti-botting for fully on-chain games
+- High-availability NFT metadata indexing
+- "World-boss"/collaborative on-chain games & events
+- NFT de-financialization experiments
