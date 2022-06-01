@@ -3,7 +3,7 @@ Hi! I'm a software engineer building web3 stuff. Reach out on [twitter](https://
 ## Recent work
 
 ### ethereum plays
-A crypto game ([in progress](https://twitter.com/ethereumplays))
+A crypto game ([in progress](https://twitter.com/ethplaysxyz))
 
 ### watercolor  
 A local development server for building [artblocks](https://www.artblocks.io/)-ready generative art projects with p5 and TypeScript support
@@ -14,4 +14,3 @@ I built a tool to browse Adventure Card NFTs released hours after launch, and th
 ## Other stuff I'm thinking about 
 - Anti-botting/sybil resistance for fully on-chain games
 - "World-boss"/collaborative on-chain games & events
-- NFT de-financialization
