@@ -3,7 +3,7 @@ Hi! I'm a software engineer building blockchain stuff. Reach out on [twitter](ht
 ## Recent work
 
 ### [ponder](https://github.com/0xOlias/ponder)
-A local development server for building APIs on top of blockchain data
+A framework for building blockchain-enabled web services
 
 ### [eth plays](https://github.com/0xOlias/ethplays-contracts)
 An cooperative gaming experiment built on Ethereum
