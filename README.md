@@ -2,7 +2,7 @@ Hi! I'm a software engineer building blockchain stuff. Reach out on [twitter](ht
 
 ## Recent work
 
-### [ponder](https://github.com/0xOlias/ponder)
+### [Ponder](https://github.com/0xOlias/ponder)
 A framework for building blockchain-enabled web services
 
 ### [eth plays](https://github.com/0xOlias/ethplays-contracts)
