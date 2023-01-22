@@ -5,10 +5,10 @@ Hi! I'm a software engineer building blockchain stuff. Reach out on [twitter](ht
 ### [Ponder](https://github.com/0xOlias/ponder)
 A framework for building blockchain-enabled web services
 
-### [eth plays](https://github.com/0xOlias/ethplays-contracts)
+### [Ethereum Plays Pokemon](https://github.com/0xOlias/ethplays-contracts)
 An cooperative gaming experiment built on Ethereum
 
-### [watercolor](https://github.com/0xOlias/watercolor)
+### [Watercolor](https://github.com/0xOlias/watercolor)
 A local development server for building [artblocks](https://www.artblocks.io/)-ready generative art projects with p5 and TypeScript support
 
 ### Adventure Cards  
